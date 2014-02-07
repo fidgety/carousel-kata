@@ -1,0 +1,320 @@
+{
+    "PageUrl": "static/aboutus.mvc",
+    "Locale": "en-GB",
+    "Template": {
+        "FrontendName": "TwoColumns6040PageTemplate"
+    },
+    "Slots": [
+        {
+            "Name": "headBottom",
+            "Components": [
+                {
+                    "Id": "comp_00000017",
+                    "Name": "MaxymiserSnippet",
+                    "Type": "Html",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"&lt;!-- Maxymiser script start --&gt;         &lt;script type=&quot;text/javascript&quot; src=&quot;/Script/Maxymiser/mmcore.js?ver=83186_9705&quot;&gt;&lt;/script&gt;          &lt;script type=&quot;text/javascript&quot;&gt;\\n            try {\\n                window.mmcore._Init(true);\\n                if (window.mmPageID) mmcore.SetPageID(window.mmPageID);\\n                mmcore.CGRequest(function(){mmcore.inline_state=false});\\n            } catch (e) {}\\n        &lt;/script&gt;         &lt;!-- Maxymiser script end --&gt;\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000018",
+                    "Name": "WebTrendsMeta1",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"Laterooms Details\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"WT.cg_n\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000019",
+                    "Name": "WebTrendsMeta2AboutUs",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"About Us\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"WT.cg_s\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001A",
+                    "Name": "WebTrendsMeta3",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"Laterooms Details\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"WT.pi\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001B",
+                    "Name": "WebTrendsSnippet",
+                    "Type": "Html",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"&lt;!-- START OF SmartSource Data Collector TAG v10.2.0 --&gt;         &lt;!-- Copyright (c) 2012 Webtrends Inc.  All rights reserved. --&gt;         &lt;script&gt;_tag={exRates:{},siteCurrencies:{}};&lt;/script&gt;         &lt;script src=&quot;/Script/webtrends/async/webtrendsMC_config.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;         &lt;script&gt;\\n            window.webtrendsAsyncInit=function(){\\n                var dcs=new Webtrends.dcs().init({\\n                    dcsid:&quot;dcsedwiumuz5bd2ezhvf2bnqc_8f7d&quot;\\n                    ,domain:&quot;statse.webtrendslive.com&quot;\\n                    ,fpcdom:&quot;.laterooms.com&quot;\\n                    ,timezone:0\\n                    ,i18n:false\\n                    ,splitvalue:&quot;LateRoomsEN&quot;\\n                    ,plugins:{\\n                        mc:{src:&quot;/Script/webtrends/async/webtrendsMC.js&quot;}\\n                        ,mca:{src:&quot;/Script/webtrends/async/webtrendsMCadd.js&quot;}\\n                        ,hm:{src:&quot;//s.webtrends.com/js/webtrends.hm.js&quot;}\\n                        ,gplus:{src:&quot;/Script/webtrends/plugins/webtrends.gplus.js&quot;}\\n                    }\\n                });\\n                dcs.WT.z_language=&quot;EN&quot;;\\n                dcs.track();\\n            };\\n            (function(){\\n                var s=document.createElement(&quot;script&quot;); s.async=true; s.src=&quot;/Script/webtrends/async/webtrends.js&quot;;\\n                var s2=document.getElementsByTagName(&quot;script&quot;)[0]; s2.parentNode.insertBefore(s,s2);\\n            }());\\n        &lt;/script&gt;         &lt;!-- END OF SmartSource Data Collector TAG v10.2.0 --&gt;\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "headTop",
+            "Components": [
+                {
+                    "Id": "comp_0000000U",
+                    "Name": "MetaContentCharset",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"text/html\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": null,\r\n  \"Emphasis\": false,\r\n  \"Charset\": \"UTF-8\",\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": \"content-type\",\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000000V",
+                    "Name": "MetaDescription",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"Information about discount online hotel provider LateRooms.com including what we do, hotels we work with and how we can help you. LateRooms.com &amp;amp;ndash; for your every need\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"description\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000000W",
+                    "Name": "MetaKeywords",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"About Us, LateRooms.com\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"keywords\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000000X",
+                    "Name": "MetaLanguage",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"en\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"language\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": \"Content-Language\",\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000000Y",
+                    "Name": "MetaRobotsIndexFollow",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"index,follow\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"robots\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000000Z",
+                    "Name": "MetaExpires",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"Mon, 20 Jul 1970 11:12:01 GMT\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"Expires\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000010",
+                    "Name": "MetaPragma",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"no-cache\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"Pragma\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000011",
+                    "Name": "MetaCacheControl",
+                    "Type": "HeadMeta",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"no-cache, must-revalidate\",\r\n  \"ComponentTitle\": null,\r\n  \"Name\": \"Cache-Control\",\r\n  \"Emphasis\": false,\r\n  \"Charset\": null,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"Property\": null,\r\n  \"HttpEquiv\": null,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000012",
+                    "Name": "CanonicalAboutUs",
+                    "Type": "HeadLink",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Media\": null,\r\n  \"Visible\": true,\r\n  \"Sizes\": null,\r\n  \"Type\": \"\",\r\n  \"Hreflang\": null,\r\n  \"Critical\": false,\r\n  \"Href\": \"http://www.laterooms.com/en/static/aboutus.mvc\",\r\n  \"Rel\": \"canonical\",\r\n  \"StyleClass\": null,\r\n  \"Title\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000013",
+                    "Name": "LinkIcon",
+                    "Type": "HeadLink",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Media\": null,\r\n  \"Visible\": true,\r\n  \"Sizes\": null,\r\n  \"Type\": \"image/gif\",\r\n  \"Hreflang\": null,\r\n  \"Critical\": false,\r\n  \"Href\": \"/content/images/laterooms/_global/favicon.gif\",\r\n  \"Rel\": \"icon\",\r\n  \"StyleClass\": null,\r\n  \"Title\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000014",
+                    "Name": "LinkShortcutIcon",
+                    "Type": "HeadLink",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Media\": null,\r\n  \"Visible\": true,\r\n  \"Sizes\": null,\r\n  \"Type\": \"image/gif\",\r\n  \"Hreflang\": null,\r\n  \"Critical\": false,\r\n  \"Href\": \"/content/images/laterooms/_global/favicon.gif\",\r\n  \"Rel\": \"shortcut icon\",\r\n  \"StyleClass\": null,\r\n  \"Title\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001D",
+                    "Name": "LinkCalendarCSS",
+                    "Type": "HeadLink",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Media\": null,\r\n  \"Visible\": true,\r\n  \"Sizes\": null,\r\n  \"Type\": \"\",\r\n  \"Hreflang\": null,\r\n  \"Critical\": false,\r\n  \"Href\": \"http://images.laterooms.com/shared/css/calendar.css\",\r\n  \"Rel\": \"stylesheet\",\r\n  \"StyleClass\": null,\r\n  \"Title\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "quickTopLinks",
+            "Components": [
+                {
+                    "Id": "comp_00000005",
+                    "Name": "IdentityComponent",
+                    "Type": "Identity",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Presalutation\": \"Hi\",\r\n  \"AnonUserContent\": \"<p><a href=\\\"MyAccount.mvc\\\">Login to My Account</a> / <a href=\\\"MyAccountRegistration.mvc\\\">Register</a></p>\",\r\n  \"ComponentTitle\": null,\r\n  \"Postsalutation\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"LogoutLink\": {\r\n    \"Name\": \"LogoutLink\",\r\n    \"Restrictions\": {\r\n      \"Restrictions\": [],\r\n      \"OnlyOneRestrictionMustApply\": true\r\n    },\r\n    \"Type\": \"CMSLink\",\r\n    \"Id\": \"LogoutLink\",\r\n    \"Configuration\": {\r\n      \"ComponentTitle\": null,\r\n      \"LinkName\": \"Logout\",\r\n      \"Emphasis\": false,\r\n      \"Target\": \"sameWindow\",\r\n      \"Visible\": true,\r\n      \"AccessKey\": null,\r\n      \"Critical\": false,\r\n      \"URL\": \"MyAccount/Logout.mvc\",\r\n      \"StyleClass\": null,\r\n      \"NoFollow\": false,\r\n      \"External\": false,\r\n      \"HTML_ID\": null\r\n    }\r\n  },\r\n  \"Critical\": false,\r\n  \"MyAccountDetailsLink\": {\r\n    \"Name\": \"MyAccountDetailsLink\",\r\n    \"Restrictions\": {\r\n      \"Restrictions\": [],\r\n      \"OnlyOneRestrictionMustApply\": true\r\n    },\r\n    \"Type\": \"CMSLink\",\r\n    \"Id\": \"MyAccountDetailsLink\",\r\n    \"Configuration\": {\r\n      \"ComponentTitle\": null,\r\n      \"LinkName\": \"My Account\",\r\n      \"Emphasis\": false,\r\n      \"Target\": \"sameWindow\",\r\n      \"Visible\": true,\r\n      \"AccessKey\": null,\r\n      \"Critical\": false,\r\n      \"URL\": \"MyAccountDetails.mvc\",\r\n      \"StyleClass\": null,\r\n      \"NoFollow\": false,\r\n      \"External\": false,\r\n      \"HTML_ID\": null\r\n    }\r\n  },\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000006",
+                    "Name": "MyBookingLink",
+                    "Type": "CMSLink",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"LinkName\": \"My Booking\",\r\n  \"Emphasis\": false,\r\n  \"Target\": \"sameWindow\",\r\n  \"Visible\": true,\r\n  \"AccessKey\": null,\r\n  \"Critical\": false,\r\n  \"URL\": \"ManageBooking.mvc\",\r\n  \"StyleClass\": null,\r\n  \"NoFollow\": false,\r\n  \"External\": false,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000007",
+                    "Name": "PersonalisationComponent",
+                    "Type": "Personalisation",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"AllowCountrySelection\": false,\r\n  \"Emphasis\": false,\r\n  \"PreferredCurrencies\": [],\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "siteBranding",
+            "Components": [
+                {
+                    "Id": "comp_00000002",
+                    "Name": "SkylineComponent",
+                    "Type": "Skyline",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"ForegroundImage\": {\r\n    \"Media\": {\r\n      \"AltText\": null,\r\n      \"URL\": \"http://www.laterooms.com/content/images/laterooms/components/skyline/header-skyline.png\"\r\n    }\r\n  },\r\n  \"BackgroundImage\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_00000004",
+                    "Name": "BannerComponent",
+                    "Type": "Banner",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"URL\": \"http://www.laterooms.com\",\r\n  \"Content\": null,\r\n  \"ComponentTitle\": null,\r\n  \"Image\": {\r\n    \"Media\": {\r\n      \"AltText\": null,\r\n      \"URL\": \"http://www.laterooms.com/content/images/laterooms/components/logo/lr-logo.png\"\r\n    }\r\n  },\r\n  \"Headline\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"External\": false,\r\n  \"HTML_ID\": \"logo-lft\"\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "navigation",
+            "Components": [
+                {
+                    "Id": "comp_0000000M",
+                    "Name": "NavigationBarComponent",
+                    "Type": "NavigationBar",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Layout\": \"AUTO\",\r\n  \"Link\": {\r\n    \"Name\": \"root\",\r\n    \"Restrictions\": {\r\n      \"Restrictions\": [],\r\n      \"OnlyOneRestrictionMustApply\": true\r\n    },\r\n    \"Type\": \"CMSLink\",\r\n    \"Id\": \"link_00000008\",\r\n    \"Configuration\": {\r\n      \"ComponentTitle\": null,\r\n      \"LinkName\": null,\r\n      \"Emphasis\": false,\r\n      \"Target\": \"sameWindow\",\r\n      \"Visible\": true,\r\n      \"AccessKey\": null,\r\n      \"Critical\": false,\r\n      \"URL\": null,\r\n      \"StyleClass\": null,\r\n      \"NoFollow\": false,\r\n      \"External\": true,\r\n      \"HTML_ID\": null\r\n    }\r\n  },\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"RootItem\": {\r\n    \"Configuration\": {\r\n      \"Title\": null,\r\n      \"Items\": [\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"root\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_00000008\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": null,\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": null,\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        },\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"Home\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_00000009\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": \"Home\",\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": \"/\",\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        },\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"Search\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_0000000A\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": \"Search\",\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": \"Hotels.aspx\",\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        },\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"Special Offers\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_0000000B\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": \"Special Offers\",\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": \"special-offers.mvc\",\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        },\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"City Guides\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_0000000C\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": \"City Guides\",\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": \"city-guides.aspx\",\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        },\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"Corporate\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_0000000D\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": \"Corporate\",\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": \"business-hotel-booking-services.aspx\",\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        },\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [\r\n              {\r\n                \"Configuration\": {\r\n                  \"Title\": null,\r\n                  \"Items\": [],\r\n                  \"Links\": [\r\n                    {\r\n                      \"Name\": \"Who We Are\",\r\n                      \"Restrictions\": {\r\n                        \"Restrictions\": [],\r\n                        \"OnlyOneRestrictionMustApply\": true\r\n                      },\r\n                      \"Type\": \"CMSLink\",\r\n                      \"Id\": \"link_0000000G\",\r\n                      \"Configuration\": {\r\n                        \"ComponentTitle\": null,\r\n                        \"LinkName\": \"Who Are We\",\r\n                        \"Emphasis\": false,\r\n                        \"Target\": \"sameWindow\",\r\n                        \"Visible\": true,\r\n                        \"AccessKey\": null,\r\n                        \"Critical\": false,\r\n                        \"URL\": \"static/AboutUs.mvc\",\r\n                        \"StyleClass\": null,\r\n                        \"NoFollow\": false,\r\n                        \"External\": true,\r\n                        \"HTML_ID\": null\r\n                      }\r\n                    }\r\n                  ]\r\n                }\r\n              },\r\n              {\r\n                \"Configuration\": {\r\n                  \"Title\": null,\r\n                  \"Items\": [],\r\n                  \"Links\": [\r\n                    {\r\n                      \"Name\": \"Help\",\r\n                      \"Restrictions\": {\r\n                        \"Restrictions\": [],\r\n                        \"OnlyOneRestrictionMustApply\": true\r\n                      },\r\n                      \"Type\": \"CMSLink\",\r\n                      \"Id\": \"link_0000000H\",\r\n                      \"Configuration\": {\r\n                        \"ComponentTitle\": null,\r\n                        \"LinkName\": \"Help\",\r\n                        \"Emphasis\": false,\r\n                        \"Target\": \"sameWindow\",\r\n                        \"Visible\": true,\r\n                        \"AccessKey\": null,\r\n                        \"Critical\": false,\r\n                        \"URL\": \"http://laterooms.custhelp.com/app/answers/list\",\r\n                        \"StyleClass\": null,\r\n                        \"NoFollow\": false,\r\n                        \"External\": true,\r\n                        \"HTML_ID\": null\r\n                      }\r\n                    }\r\n                  ]\r\n                }\r\n              },\r\n              {\r\n                \"Configuration\": {\r\n                  \"Title\": null,\r\n                  \"Items\": [],\r\n                  \"Links\": [\r\n                    {\r\n                      \"Name\": \"Customer Support\",\r\n                      \"Restrictions\": {\r\n                        \"Restrictions\": [],\r\n                        \"OnlyOneRestrictionMustApply\": true\r\n                      },\r\n                      \"Type\": \"CMSLink\",\r\n                      \"Id\": \"link_0000000I\",\r\n                      \"Configuration\": {\r\n                        \"ComponentTitle\": null,\r\n                        \"LinkName\": \"Customer Support\",\r\n                        \"Emphasis\": false,\r\n                        \"Target\": \"sameWindow\",\r\n                        \"Visible\": true,\r\n                        \"AccessKey\": null,\r\n                        \"Critical\": false,\r\n                        \"URL\": \"http://laterooms.custhelp.com/app/home\",\r\n                        \"StyleClass\": null,\r\n                        \"NoFollow\": false,\r\n                        \"External\": true,\r\n                        \"HTML_ID\": null\r\n                      }\r\n                    }\r\n                  ]\r\n                }\r\n              }\r\n            ],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"About Us\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_0000000E\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": \"About Us\",\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": \"javascript(0);\",\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        },\r\n        {\r\n          \"Configuration\": {\r\n            \"Title\": null,\r\n            \"Items\": [\r\n              {\r\n                \"Configuration\": {\r\n                  \"Title\": null,\r\n                  \"Items\": [],\r\n                  \"Links\": [\r\n                    {\r\n                      \"Name\": \"Book a Cottage\",\r\n                      \"Restrictions\": {\r\n                        \"Restrictions\": [],\r\n                        \"OnlyOneRestrictionMustApply\": true\r\n                      },\r\n                      \"Type\": \"CMSLink\",\r\n                      \"Id\": \"link_0000000J\",\r\n                      \"Configuration\": {\r\n                        \"ComponentTitle\": null,\r\n                        \"LinkName\": \"Book a Cottage\",\r\n                        \"Emphasis\": false,\r\n                        \"Target\": \"sameWindow\",\r\n                        \"Visible\": true,\r\n                        \"AccessKey\": null,\r\n                        \"Critical\": false,\r\n                        \"URL\": \"static/holiday-cottages.mvc\",\r\n                        \"StyleClass\": null,\r\n                        \"NoFollow\": false,\r\n                        \"External\": true,\r\n                        \"HTML_ID\": null\r\n                      }\r\n                    }\r\n                  ]\r\n                }\r\n              },\r\n              {\r\n                \"Configuration\": {\r\n                  \"Title\": null,\r\n                  \"Items\": [],\r\n                  \"Links\": [\r\n                    {\r\n                      \"Name\": \"Book London Theatre Tickets\",\r\n                      \"Restrictions\": {\r\n                        \"Restrictions\": [],\r\n                        \"OnlyOneRestrictionMustApply\": true\r\n                      },\r\n                      \"Type\": \"CMSLink\",\r\n                      \"Id\": \"link_0000000K\",\r\n                      \"Configuration\": {\r\n                        \"ComponentTitle\": null,\r\n                        \"LinkName\": \"Book London Theatre Tickets\",\r\n                        \"Emphasis\": false,\r\n                        \"Target\": \"sameWindow\",\r\n                        \"Visible\": true,\r\n                        \"AccessKey\": null,\r\n                        \"Critical\": false,\r\n                        \"URL\": \"static/london-theatre-tickets.mvc\",\r\n                        \"StyleClass\": null,\r\n                        \"NoFollow\": false,\r\n                        \"External\": true,\r\n                        \"HTML_ID\": null\r\n                      }\r\n                    }\r\n                  ]\r\n                }\r\n              },\r\n              {\r\n                \"Configuration\": {\r\n                  \"Title\": null,\r\n                  \"Items\": [],\r\n                  \"Links\": [\r\n                    {\r\n                      \"Name\": \"Hire a Car\",\r\n                      \"Restrictions\": {\r\n                        \"Restrictions\": [],\r\n                        \"OnlyOneRestrictionMustApply\": true\r\n                      },\r\n                      \"Type\": \"CMSLink\",\r\n                      \"Id\": \"link_0000000L\",\r\n                      \"Configuration\": {\r\n                        \"ComponentTitle\": null,\r\n                        \"LinkName\": \"Hire a Car\",\r\n                        \"Emphasis\": false,\r\n                        \"Target\": \"sameWindow\",\r\n                        \"Visible\": true,\r\n                        \"AccessKey\": null,\r\n                        \"Critical\": false,\r\n                        \"URL\": \"http://carhire.laterooms.com/default.aspx\",\r\n                        \"StyleClass\": null,\r\n                        \"NoFollow\": false,\r\n                        \"External\": true,\r\n                        \"HTML_ID\": null\r\n                      }\r\n                    }\r\n                  ]\r\n                }\r\n              }\r\n            ],\r\n            \"Links\": [\r\n              {\r\n                \"Name\": \"Other Services\",\r\n                \"Restrictions\": {\r\n                  \"Restrictions\": [],\r\n                  \"OnlyOneRestrictionMustApply\": true\r\n                },\r\n                \"Type\": \"CMSLink\",\r\n                \"Id\": \"link_0000000F\",\r\n                \"Configuration\": {\r\n                  \"ComponentTitle\": null,\r\n                  \"LinkName\": \"Other Services\",\r\n                  \"Emphasis\": false,\r\n                  \"Target\": \"sameWindow\",\r\n                  \"Visible\": true,\r\n                  \"AccessKey\": null,\r\n                  \"Critical\": false,\r\n                  \"URL\": \"javascript(0);\",\r\n                  \"StyleClass\": null,\r\n                  \"NoFollow\": false,\r\n                  \"External\": true,\r\n                  \"HTML_ID\": null\r\n                }\r\n              }\r\n            ]\r\n          }\r\n        }\r\n      ],\r\n      \"Links\": []\r\n    }\r\n  },\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001E",
+                    "Name": "AddThisComponent",
+                    "Type": "AddThis",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"BookmarkTitle\": \"Share\",\r\n  \"ComponentTitle\": \"Share\",\r\n  \"Emphasis\": false,\r\n  \"ShowPageBookmark\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "contentHead",
+            "Components": [
+                {
+                    "Id": "comp_0000000R",
+                    "Name": "AboutUsContentHead",
+                    "Type": "CMSParagraph",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"<h1>About LateRooms.com...</h1>\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "contentLeft60",
+            "Components": [
+                {
+                    "Id": "comp_0000000S",
+                    "Name": "AboutUsLeft",
+                    "Type": "CMSParagraph",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"<h2>Hello.</h2> <p><b>Thanks for dropping by</b>. We&rsquo;re guessing you&rsquo;re here to find that ideal hotel stay&hellip; and that&rsquo;s just what we do best at LateRooms.com. <o:p></o:p></p> <h2>Hotels for your every need</h2> <p><b>LateRooms.com is the UK&rsquo;s leading hotel booking specialist</b>. We provide a whole world of hotel possibilities, with fantastic deals backed up by our reassuring <u><a href=\\\"http://www.laterooms.com/en/price-promise.mvc\\\">Price Promise</a></u>.</p> <p><b>You&rsquo;ll find more UK hotels here than anywhere else, not to mention a huge range across Europe and even worldwide.</b></p> <p>So from cosy B&amp;Bs to luxury Spas, Thai beach huts to English country houses, Spanish Paradores to Moroccan Riads &ndash; you&rsquo;re sure to find just what you need.</p> <h2>Open to all</h2> <p>At LateRooms.com you can <b>book&nbsp;</b><strong>24/7 online </strong>or&nbsp;<b>between 2am and 11pm GMT over the phone</b>. It&rsquo;s up to you.</p> <p>And that&rsquo;s whether you need a <b>hotel tonight</b>, or up to <b>a year in advance</b>.</p> <p><b>We work completely independently from any hotel groups and any hotel property can join our site.</b> So you never know what hidden gem you might stumble upon.</p> <p style=\\\"text-align:center;\\\"><a style=\\\"font-size:16px; font-weight:bold; color:#FFF; background-color:#411485; padding:15px 30px; -webkit-border-radius:5px; -moz-border-radius:5px; border-radius: 5px;\\\" href=\\\"http://www.laterooms.com/\\\">Start your search here</a></p>\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "contentRight40",
+            "Components": [
+                {
+                    "Id": "comp_0000000T",
+                    "Name": "AboutUsRight",
+                    "Type": "CMSParagraph",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"<h4>Sleep easy with LateRooms.com</h4> <ul class=\\\"ticks\\\">     <li>More UK hotels than anybody else - and a huge range worldwide</li>     <li>Book now, pay when you stay</li>     <li>Over 1.4 million genuine guest reviews to help you choose</li>     <li>Contact Centre open between 2am and 11pm GMT</li>     <li>No booking or cancellation fees*</li> </ul> <p>*If you cancel within the hotel's cancellation policy</p> <h4>A little bit of LateRooms.com history</h4> <p>LateRooms.com was born in Salford, Greater Manchester in 1999, starting life as an 'on the day for the day' booking site for unsold rooms. By 2007 we had joined the world's leading leisure travel group, TUI Travel PLC. We're still loving life here in Manchester today, now offering over 65,000 properties worldwide with more UK hotels than anybody else.</p> <p>And these days you can still book on the day of your stay, naturally, but also up to a whole year in advance - to make things nice and flexible for you.</p> <p>Oh, and we've picked up some lovely awards along the way...</p> <h4>Awards</h4> <p><img class=\\\"imgcen\\\" alt=\\\"\\\" src=\\\"http://images.laterooms.com/BTA2013Winner.png\\\" /> <img class=\\\"imgcen\\\" alt=\\\"\\\" src=\\\"http://images.laterooms.com/BTA-2012.png\\\" />              <img width=\\\"131\\\" height=\\\"123\\\" class=\\\"imgcen\\\" src=\\\"http://mediacentre.laterooms.com/wp-content/uploads/2012/02/BTA-logo1.jpg\\\" alt=\\\"\\\" /> \\t\\t\\t <img width=\\\"140\\\" height=\\\"61\\\" class=\\\"imgcen\\\" src=\\\"http://mediacentre.laterooms.com/wp-content/uploads/2012/02/travolution-award-111.gif\\\" alt=\\\"\\\" /> \\t\\t\\t<img width=\\\"140\\\" height=\\\"130\\\" class=\\\"imgcen\\\" src=\\\"http://mediacentre.laterooms.com/wp-content/uploads/2012/02/travolution-award-102.gif\\\" alt=\\\"\\\" /> <img class=\\\"imgcen\\\" src=\\\"http://images.laterooms.com/Top50_CompaniesAward.jpg\\\" alt=\\\"\\\" /></p>\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": true,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "contentFooter",
+            "Components": [
+                {
+                    "Id": "comp_0000000N",
+                    "Name": "SeoLinkListComponent",
+                    "Type": "SeoLinkList",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Components\": [],\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "footer",
+            "Components": [
+                {
+                    "Id": "comp_0000000O",
+                    "Name": "FooterLinkList1",
+                    "Type": "LinkList",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Components\": [\r\n    {\r\n      \"Name\": \"ContactUsLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"ContactUsLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Contact Us\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"http://laterooms.custhelp.com/app/home\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"TandCLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"TandCLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Terms and Conditions\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/TermsOfUse.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"PrivacyPolicyLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"PrivacyPolicyLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Privacy Policy\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/TermsOfUse.mvc#s4\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"CookieUsageLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"CookieUsageLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Cookie Usage\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/CookieUsage.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"DisclaimerLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"DisclaimerLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Disclaimer\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/LegalDisclaimer.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"PricePromiseLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"PricePromiseLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Price Promise\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"price-promise.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"AboutUsLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"AboutUsLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"About Us\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/AboutUs.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"JobOpportunityLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"JobOpportunityLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Job Opportunities\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"JobOpportunities.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"ThingsWeCareAboutLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"ThingsWeCareAboutLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Things we care about\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/ThingsCare.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"MediaCentreLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"MediaCentreLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Media Centre\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"http://mediacentre.laterooms.com/\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    }\r\n  ],\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000000P",
+                    "Name": "FooterLinkList2",
+                    "Type": "LinkList",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Components\": [\r\n    {\r\n      \"Name\": \"UserGuideLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"UserGuideLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"User Guide\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"http://laterooms.custhelp.com/app/answers/list/kw/a%5Cuserguide/search/1\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"FAQLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"FAQLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"FAQ\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"http://laterooms.custhelp.com/app/home\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"BusinessBookingLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"BusinessBookingLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Business Booking\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"business-hotel-booking-services.aspx\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"AffiliatesLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"AffiliatesLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Affiliates\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"http://affiliates.laterooms.com/Index.aspx\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"HotelAdminLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"HotelAdminLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Hotel Admin\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"http://hoteladmin.laterooms.com/SignIn.aspx\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"AddYourHotelLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"AddYourHotelLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Add your hotel\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/AddYourHotel.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    },\r\n    {\r\n      \"Name\": \"ResourcesLink\",\r\n      \"Restrictions\": {\r\n        \"Restrictions\": [],\r\n        \"OnlyOneRestrictionMustApply\": true\r\n      },\r\n      \"Type\": \"CMSLink\",\r\n      \"Id\": \"ResourcesLink\",\r\n      \"Configuration\": {\r\n        \"ComponentTitle\": null,\r\n        \"LinkName\": \"Resources\",\r\n        \"Emphasis\": false,\r\n        \"Target\": \"sameWindow\",\r\n        \"Visible\": true,\r\n        \"AccessKey\": null,\r\n        \"Critical\": false,\r\n        \"URL\": \"static/travel-resources.mvc\",\r\n        \"StyleClass\": null,\r\n        \"NoFollow\": false,\r\n        \"External\": false,\r\n        \"HTML_ID\": null\r\n      }\r\n    }\r\n  ],\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000000Q",
+                    "Name": "LanguageListComponent",
+                    "Type": "LanguageList",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001J",
+                    "Name": "Copyright",
+                    "Type": "CMSParagraph",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"<p style=\\\"color: rgb(255, 255, 255); font-size: 11px; text-align: center;\\\">Copyright &copy; 1999 - 2013 LateRooms Ltd</p>\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        },
+        {
+            "Name": "bodyBottom",
+            "Components": [
+                {
+                    "Id": "comp_0000001G",
+                    "Name": "GASnippetBottom",
+                    "Type": "Html",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"&lt;!-- --&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;http://www.google-analytics.com/ga.js&quot;&gt;&lt;/script&gt;\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001H",
+                    "Name": "GASnippetBottom2AboutUs",
+                    "Type": "Html",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;\\n            var pageTracker = _gat._createTracker(&quot;UA-324587-1&quot;);\\n            pageTracker._setDomainName(&quot;laterooms.com&quot;);\\n            pageTracker._trackPageview(&quot;/en/static/AboutUs.mvc?HomePageComponent=navigation&quot;);\\n    &lt;/script&gt;\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001I",
+                    "Name": "WebTrendsSnippetBottom",
+                    "Type": "Html",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"&lt;noscript&gt;\\n        &lt;div&gt;\\n            &lt;img alt=&quot;dcsimg&quot; id=&quot;dcsimg&quot; width=&quot;1&quot; height=&quot;1&quot; src='//statse.webtrendslive.com/dcsedwiumuz5bd2ezhvf2bnqc_8f7d/njs.gif?dcsuri=/nojavascript&amp;amp;WT.js=No&amp;amp;WT.tv=10.2.0&amp;amp;dcssip=www.laterooms.com' /&gt;\\n        &lt;/div&gt;\\n    &lt;/noscript&gt;\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                },
+                {
+                    "Id": "comp_0000001C",
+                    "Name": "TeaLeafSnippetAboutUs",
+                    "Type": "Html",
+                    "Action": null,
+                    "Configuration": "{\r\n  \"Content\": \"&lt;!-- --&gt; &lt;!-- TLTracker:AboutUs --&gt;\",\r\n  \"ComponentTitle\": null,\r\n  \"Emphasis\": false,\r\n  \"Visible\": true,\r\n  \"Critical\": false,\r\n  \"StyleClass\": null,\r\n  \"HTML_ID\": null\r\n}"
+                }
+            ]
+        }
+    ],
+    "Title": "About Us | LateRooms.com",
+    "Catalog": {
+        "Id": "laterooms"
+    }
+}
